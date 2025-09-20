@@ -8,7 +8,7 @@ All tools are installed on *Ubuntu 24.04.3* (latest) running on *Oracle Virtual 
 - **RAM** --> 10 GB
 - **HDD** --> 50 GB
 - **CPU** --> 4
-  ---
+---
   
 ## 🔧 Tools installed:
 
