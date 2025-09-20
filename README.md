@@ -23,4 +23,4 @@ $ git submodule update --init --recursive
 $ make 
 $ sudo make install
 ```
-![Yosys](Images/Yosys_done.png)
+![Yosys](Images/Yosys_done.jpg)
