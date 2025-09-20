@@ -1,7 +1,7 @@
 # 🚀 RISC-V_SOC_TASK_0
 ## 📌 Day 0 Overview
-The task of **Day 0** includes the installing the essential tools required for the **RISC V SOC Programme**.
-All tools are installed on *Ubuntu 24.04.3* (latest) running on *Oracle Virtual Machine 7.2.2*
+###The task of **Day 0** includes the installing the essential tools required for the **RISC V SOC Programme**.
+###All tools are installed on *Ubuntu 24.04.3* (latest) running on *Oracle Virtual Machine 7.2.2*
 ---
 ## 🖥️ Ubuntu VirtualMachine
 - **Version** --> 24.04.3
@@ -43,3 +43,11 @@ $ sudo apt install gtkwave
 #### ✅ GTKWave Successfully installed!
 ![GTKWave](Images/GTKWave_done.jpg)
 ---
+
+# 🎯 Conclusion
+## Day 0 focused on setting up the development environment by installing three key tools: 
+- Yosys for synthesis, 
+- Icarus Verilog for simulation, 
+- GTKWave for waveform analysis. 
+
+With the environment set up, we are now ready to move on to Day 1 tasks. These will involve writing, simulating, and analyzing Verilog designs.
