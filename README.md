@@ -24,3 +24,18 @@ $ make
 $ sudo make install
 ```
 ![Yosys](Images/Yosys_done.jpg)
+
+# Iverilog
+```bash
+$ sudo apt-get update
+$ sudo apt-get install iverilog
+```
+![Iverilog](Images/Iverilog_done.jpg)
+
+
+# GTKWave
+```bash
+$ sudo apt-get update
+$ sudo apt install gtkwave
+```
+![GTKWave](Images/GTKWave_done.jpg)
