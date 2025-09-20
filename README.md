@@ -1,7 +1,7 @@
 # 🚀 RISC-V_SOC_TASK_0
 ## 📌 Day 0 Overview
-###The task of **Day 0** includes the installing the essential tools required for the **RISC V SOC Programme**.
-###All tools are installed on *Ubuntu 24.04.3* (latest) running on *Oracle Virtual Machine 7.2.2*
+### The task of **Day 0** includes the installing the essential tools required for the **RISC V SOC Programme**.
+### All tools are installed on *Ubuntu 24.04.3* (latest) running on *Oracle Virtual Machine 7.2.2*
 ---
 ## 🖥️ Ubuntu VirtualMachine
 - **Version** --> 24.04.3
