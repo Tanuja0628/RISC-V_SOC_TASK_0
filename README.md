@@ -24,7 +24,7 @@ $ git submodule update --init --recursive
 $ make 
 $ sudo make install
 ```
-✅ Yosys Successfully installed!
+####✅ Yosys Successfully installed!
 ![Yosys](Images/Yosys_done.jpg)
 ---
 ### Iverilog
@@ -32,7 +32,7 @@ $ sudo make install
 $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
-✅ Iverilog Successfully installed!
+####✅ Iverilog Successfully installed!
 ![Iverilog](Images/Iverilog_done.jpg)
 ---
 ### GTKWave
@@ -40,6 +40,6 @@ $ sudo apt-get install iverilog
 $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
-✅ GTKWave Successfully installed!
+####✅ GTKWave Successfully installed!
 ![GTKWave](Images/GTKWave_done.jpg)
 ---
